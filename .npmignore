@@ -1,0 +1,17 @@
+# Dev / tooling
+node_modules/
+*.log
+*.lock
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Launch config
+.claude/
+
+# Unused legacy files
+src/db.js
